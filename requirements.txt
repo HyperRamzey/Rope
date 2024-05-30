@@ -1,5 +1,7 @@
 --extra-index-url https://download.pytorch.org/whl/cu118
 
+wheel
+setuptools
 numpy>=1.23.5
 opencv-python==4.7.0.72
 scikit-image==0.21.0
